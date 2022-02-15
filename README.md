@@ -7,6 +7,7 @@ Design the class item commodity to realize the description of commodity informat
 And design the class staff commodity to realize the description of the staff imformation.
 
 This is a C++ basic Supermarket Management Website System:
+
 ● Implemented the supermarket manager can provide functions like add, search, deleting, editing and joining new staff registration. 
 
 ● Similar systems mostly use arrays of structures to manipulate data. The system uses a linked list structure to manipulate data, and improved the efficiency of data processing.
